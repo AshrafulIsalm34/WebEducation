@@ -808,14 +808,14 @@ img{
 		width:50%;
 		background:#ddd;
 		top: 17%;
-		right:-100%;
+		left: -100%;
 		display: block;
 		transition:0.1s;
 		cursor: pointer;
 		z-index: 100;
 	}
 	.nav_bar_right>nav.active{
-		right: 2%;
+		left: 50%;
 	}
 	.nav_bar_right>nav ul{
 		display: block;
